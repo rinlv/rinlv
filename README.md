@@ -5,7 +5,7 @@ Hi, I'm Rin Luu Van, a passionate self-taught Mobile developer from Vietnam.
 - ⌨ I'm currently working with Flutter
 - 👯 Part of Developer Community.
 - ️⚽ 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to playing footbal and listening to music
+- ⚡ Fun fact: I love to playing football and listening to music
 
 **Languages**  
 
